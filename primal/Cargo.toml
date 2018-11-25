@@ -1,0 +1,8 @@
+[package]
+name = "primal"
+version = "0.1.0"
+authors = ["Quadriphobs1 <abiodunquadriadekunle@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+primal = "0.2.3"
